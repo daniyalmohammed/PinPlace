@@ -3,7 +3,7 @@ PinPlace is a web app which allows a user to pin locations on a map and share th
 
 Please use the following link: http://daniyalmoha.me/pinplace-project.html
 
-PinPlace Features
+**PinPlace Features**
 
 ELEGANT USER INTERFACE: - Simple and pretty UI to create your pins - NO ads, extra purchases and other monetization
 
@@ -14,7 +14,7 @@ FIND YOUR LOCATIONS: - Easily find any location and share your experience our ex
 TOGGLE THROUGH DIFFERENT VIEWS: - PinPlace allows you to choose whether you want to see only your pins or every users pins
 
 
-PinPlace Technical Overview
+**PinPlace Technical Overview**
 
 • Pinplace's frontend is designed with ReactJS, Mapbox API and Material UI to create a visually appealing user interface
 
@@ -27,7 +27,7 @@ PinPlace Technical Overview
 • PinPlace incorporated ExpressJS to create REST API with GET and POST endpoints which handles transactions between
 database and frontend, reducing processing times by 40%
 
-The PinPlace Story
+**The PinPlace Story**
 
 Since my childhood, I have been obsessed with maps, travelling and the world. My life goal has always been to visit as many locations as possible. Additionally, I have a map in my room where I put pins to see everywhere I have ever visited. However, I wanted to have a visually appealong digital version of the app so which I can access through multiple devices. With this in mind, as soon my university semester 1B ended, (first-year winter term), I decided to build the app, both because I wanted to learn the MERN stack and because my digital map was a need I wanted fulfilled. I will now explain the timeline of creating my web app.
 
@@ -48,13 +48,13 @@ Day Seven: Mar 25, 2021 I added toggle functionality to allow the user to see on
 Day Eight: Mar 26, 2021 I once again tried to get the delete functionality working. I was unfortunately unable to do so. I decided to just let it go and commented out my attempts. In the following days I would publish my code to Github and Heroku.
 
 
-Lessons Learned:
+**Lessons Learned:**
 
 • Atitude is everything - During the first few days of the project, I was miserable and unhappy because I kept forcing myself to get up and grind on the project. This is NOT a helpful mentality if your goal is to learn. It only leads to stress. Eventually, I came to a realization that I can go at my own speed and change my perspective on this project. Since doing so, I began to enjoy coding and solving these problems.
 
 • Importance of a user-centric perspective - I felt like this project was far easier than my Quillow app project. This opinion is based on the fact that the MERN stack is quite easy to use and learn. I felt the learning curve for SwiftUI and XCode was greater because iOS development is more niche. Ultimately, despite the difficulty I enjoyed iOS development more. Personally, I use my iPad and phone apps far more than desktop apps and thus I was able to code through a more user-centric focus. I felt as though I lacked this bigger picture view for most of the project.
 
-PinPlace Privacy Policy
+**PinPlace Privacy Policy**
 
 Privacy Policy Daniyal Mohammed built the PinPlace app as a Free app. This SERVICE is provided by Daniyal Mohammed at no cost and is intended for use as is.
 
@@ -102,6 +102,6 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 This policy is effective as of 2022-05-01
 
-Contact Us
+**Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at daniyalmoha@gmail.com. You are also free to contact me using any of the links below.
